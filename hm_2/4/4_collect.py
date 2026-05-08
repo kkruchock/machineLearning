@@ -3,7 +3,7 @@ import time
 import csv
 from datetime import datetime
 # п1 - ключ
-API_KEY = ""
+API_KEY = "a10e6ce37aedfb019fe573ab7b9e361b"
 CITY = "Kemerovo"
 
 url = f"https://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
